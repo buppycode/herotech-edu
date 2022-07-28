@@ -7,10 +7,9 @@
 .dark-bg {
   filter: brightness(50%);
 }
-/* .img-hw {
-  width: 200px;
-  height: 200px;
-} */
+.theme-color {
+  background-color: #289bde;
+}
 .course-text {
   color: #4a4a4a;
 }
