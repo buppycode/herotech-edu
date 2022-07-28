@@ -1,10 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
 .dark-bg {
   filter: brightness(50%);
 }
-.img-hw {
-  width: 150px;
-  height: 150px;
-}
+/* .img-hw {
+  width: 200px;
+  height: 200px;
+} */
 .course-text {
   color: #4a4a4a;
 }
