@@ -4,9 +4,6 @@
   font-family: "Poppins", sans-serif;
 }
 
-.dark-bg {
-  filter: brightness(50%);
-}
 .theme-color {
   background-color: #289bde;
 }
@@ -15,4 +12,11 @@
 }
 p {
   color: #4a4a4a;
+}
+.cov-img {
+  background-position: center;
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+  object-fit: cover;
 }
